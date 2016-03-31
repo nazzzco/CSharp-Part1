@@ -6,7 +6,7 @@ class Program
     {
         Console.WriteLine("Abs of the number -7 is {0}", Math.Abs(-7));
         Console.WriteLine("The bigger number between 3 and 23 is {0}", Math.Max(3, 23));
-        Console.WriteLine("Square of 10 is {0}", Math.Sqrt(10));
+        Console.WriteLine("Square of 120 is {0}", Math.Sqrt(10));
         Console.WriteLine("E is {0}", Math.E);
 
         int width = 10;
